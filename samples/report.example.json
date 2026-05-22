@@ -1,0 +1,19 @@
+{
+  "scan_timestamp": "2026-05-22T13:09:54.630679",
+  "summary": {
+    "total_orphans": 1,
+    "estimated_monthly_waste_usd": 8
+  },
+  "findings": [
+    {
+      "resource_id": "demo-resource",
+      "resource_type": "unused_resource",
+      "reason": "orphaned",
+      "age_days": 10,
+      "estimated_monthly_cost_usd": 8,
+      "tags": {},
+      "suggested_action": "delete",
+      "safe_to_auto_delete": false
+    }
+  ]
+}
