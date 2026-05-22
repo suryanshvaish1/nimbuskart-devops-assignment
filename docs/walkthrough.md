@@ -1,8 +1,8 @@
 # Walkthrough Video
 
 ## Video Link
+https://drive.google.com/file/d/15XEb8NgSmNMgCCcQUEK9lbf8Mi5A2cWZ/view?usp=drivesdk
 
-https://your-video-link.com
 
 ## Transcript
 
